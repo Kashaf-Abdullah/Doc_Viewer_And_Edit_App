@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  height: 100%;
+  margin: 0;
+}
+:root {
+  --toastify-color-success: #10b3ff; /* Orange for success */
+  --toastify-color-error: #d9534f; /* Red for error */
+  --toastify-color-info: #0275d8; /* Blue for info */
+  --toastify-color-warning: #f0ad4e; /* Orange for warning */
+  --toastify-text-color-light: #010000; /* White text */
+  --toastify-color-progress-light: #ffffff; /* White progress bar */
+}
+
+
