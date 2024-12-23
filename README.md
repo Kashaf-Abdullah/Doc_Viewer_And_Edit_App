@@ -21,7 +21,7 @@ Make sure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/Kashaf-Abdullah/Doc_Viewer_And_Edit_App
-cd your-repo-name
+cd Doc_Viewer_And_Edit_App
 
 
 
@@ -36,6 +36,9 @@ yarn install
 
 
 ### 3.Run the Project
+
+npm start
+
 
 # Using npm
 npm start
